@@ -9,3 +9,9 @@
 package "zsh" do
   action :install
 end
+
+bash "install_something" do
+  code <<-EOH
+  chsh -s /bin/zsh vagrant
+  EOH
+end
