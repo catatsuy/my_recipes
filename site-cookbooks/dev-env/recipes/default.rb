@@ -6,7 +6,7 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-%w{gcc g++ make git}.each do |pkg|
+%w{gcc g++ make git tig}.each do |pkg|
   package pkg do
     action :install
   end
