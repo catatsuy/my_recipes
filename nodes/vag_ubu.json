@@ -1,6 +1,7 @@
 {
     "run_list":[
         "tmux",
-        "zsh"
+        "zsh",
+        "dev-env"
     ]
 }
