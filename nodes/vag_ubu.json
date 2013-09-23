@@ -2,6 +2,7 @@
     "run_list":[
         "tmux",
         "zsh",
-        "dev-env"
+        "dev-env",
+        "my-settings"
     ]
 }
