@@ -1,9 +1,10 @@
 {
     "run_list":[
+        "dev-env",
         "tmux",
         "zsh",
-        "dev-env",
         "my-settings",
-        "vim"
+        "vim",
+        "rbenv"
     ]
 }
