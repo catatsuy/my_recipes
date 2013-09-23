@@ -3,6 +3,7 @@
         "tmux",
         "zsh",
         "dev-env",
-        "my-settings"
+        "my-settings",
+        "vim"
     ]
 }
