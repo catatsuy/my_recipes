@@ -1,0 +1,11 @@
+{
+    "run_list":[
+        "dev-env",
+        "tmux",
+        "zsh",
+        "my-settings",
+        "vim",
+        "rbenv",
+        "mysql"
+    ]
+}
